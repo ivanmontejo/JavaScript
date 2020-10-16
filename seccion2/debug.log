@@ -1,0 +1,3 @@
+[1012/140424.166:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1013/114906.108:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[1013/115904.028:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
